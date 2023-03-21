@@ -1,3 +1,4 @@
+Just copy and paste in your python editor when you are done remove line 1 which is the line you are reading now
 import pygame as pg
 from random import randrange
 
