@@ -1,4 +1,4 @@
-Just copy and paste in your python editor when you are done remove line 1 and line 2 which is the line you are reading now also dont forget to do py install pygame 
+Just copy and paste in your python editor when you are done remove line 1 and line 2 dont forget to do pip install pygame 
 i recommend using pycharm and go to command prompt not local
 import pygame as pg
 from random import randrange
